@@ -1,0 +1,2 @@
+# Automated_Diagnosis_of_Pneumonia_from_Classification_of-Chest_XRay_Images_using_EfficientNet
+Automated Diagnosis of Pneumonia from Classification of Chest X-Ray Images using EfficientNet
